@@ -7,7 +7,7 @@
 <p>4. Disassemble RAM</p>
 <p>5. Disassemble hard disk(HDD)</p>
 <p>6. Disassemble CPU Fan</p>
-<p>Here's some picture about the process of PC assemble : <p/>
+<p> picture about \PC assemble : <p/>
 <img src = "https://github.com/simyeeteng/PC-assemble/assets/148403179/47c51833-e45c-458a-b96d-2f00227ef6f2">
 <img src ="https://github.com/simyeeteng/PC-assemble/assets/148403179/5e9fd4b2-fc92-4485-985c-2f4953538334" >
 <p>Reflection:</p>
