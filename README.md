@@ -1,5 +1,5 @@
 # PC-assemble
-<p>As a summary for this PC assemble, I would like to say it was very interesting. The new knowledge I have gain from this PC assemble is the name of every components and the step to disassemble the CPU in the correct way.
+<p>In summary, the PC assembly experience was highly intriguing for me. The valuable knowledge I acquired includes learning the names of various components and mastering the proper steps to disassemble the CPU accurately.
 <p>The correct way to disassemble CPU is as below : <p/>
 <p>1. Open case</p>
 <p>2. Disconnect cable</p>
@@ -11,4 +11,4 @@
 <img src = "https://github.com/simyeeteng/PC-assemble/assets/148403179/47c51833-e45c-458a-b96d-2f00227ef6f2">
 <img src ="https://github.com/simyeeteng/PC-assemble/assets/148403179/5e9fd4b2-fc92-4485-985c-2f4953538334" >
 <p>Reflection:</p>
-<p>In my opinion, this PC assemble held has let me gain a new experience as this is the first time I have the chance to look into the inner part of CPU. Besides, I have a chance to disassemble the CPU by myself. I really enjoy the whole process of PC assemble. Truely to say, I hope to have more learning by physically such as this PC assemble, as it was very helpful on the understanding compare to books and slides. This is because we can really touch on the components and interact with lecturers and even lab assistants immediately when we have any questions. Most importantly, we get to discuss with group mates and gain new idea. </p>
+<p>In my perspective, participating in this PC assembly has provided me with a novel experience, marking the first occasion I've delved into the inner workings of a CPU. Notably, I had the opportunity to personally disassemble the CPU, contributing to my overall enjoyment of the entire assembly process. To be honest, I aspire to engage in more hands-on learning experiences like this PC assembly. Such practical activities prove more beneficial for comprehension compared to relying solely on books and slides. The tangible interaction with components, immediate access to lecturers and lab assistants for inquiries, and the collaborative discussions with group mates are invaluable aspects of this learning method, fostering a deeper understanding and generating innovative ideas. </p>
